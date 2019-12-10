@@ -1,102 +1,180 @@
-[
-    {
-        "name": "Advent+Pro",
-        "images": ["Advent Pro-01.png", "Advent Pro-02.png", "Advent Pro-03.png", "Advent Pro-04.png", "Advent Pro-05.png", "Advent Pro-06.png"]
-    }, {
-        "name": "Arvo",
-        "images": ["gf-Arvo-01.jpg", "gf-Arvo-02.jpg", "gf-Arvo-03.jpg"]
-    }, {
-        "name": "Bitter",
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]
-    }, {
-        "name": "Catamaran",
-        "images": ["gf_catamaran_01_lg.png", "gf_catamaran_02_lg.png", "gf_catamaran_03_lg.png", "gf_catamaran_04_lg.png"]
-    }, {
-        "name": "Chivo",
-        "images": ["gf_chivo_01_lg.png", "gf_chivo_02_lg.png", "gf_chivo_03_lg.png", "gf_chivo_04_lg.png", "gf_chivo_05_lg.png", "gf_chivo_06_lg.png"]
-    }, {
-        "name": "Cinzel+Decorative",
-        "images": ["Google_Fonts_Cinzel_1.jpg", "Google_Fonts_Cinzel_2.jpg", "Google_Fonts_Cinzel_3.jpg", "Google_Fonts_Cinzel_4.jpg", "Google_Fonts_Cinzel_5.jpg", "Google_Fonts_Cinzel_6.jpg"]
-    }, {
-        "name": "Crimson+Text",
-        "images": ["gf-CrimsonText-01.jpg", "gf-CrimsonText-02.jpg", "gf-CrimsonText-03.jpg", "gf-CrimsonText-04.jpg", "gf-CrimsonText-05.jpg", "gf-CrimsonText-06.jpg"]
-    }, {
-        "name": "Exo",
-        "images": ["GoogleFonts-Exo-01.png", "GoogleFonts-Exo-02.png", "GoogleFonts-Exo-03.png", "GoogleFonts-Exo-04.png", "GoogleFonts-Exo-05.png", "GoogleFonts-Exo-06.png"]
-    }, {
-        "name": "Fira+Sans+Condensed",
-        "images": ["GoogleFonts-Fira Sans Condensed-01.png", "GoogleFonts-Fira Sans Condensed-02.png", "GoogleFonts-Fira Sans Condensed-03.png", "GoogleFonts-Fira Sans Condensed-04.png", "GoogleFonts-Fira Sans Condensed-05.png", "GoogleFonts-Fira Sans Condensed-06.png"]
-    }, {
-        "name": "Indie+Flower",
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]
-    }, {
-        "name": "Josefin+Sans",
-        "images": ["josefinsans_001.jpg", "josefinsans_002.jpg", "josefinsans_003.jpg", "josefinsans_004.jpg", "josefinsans_005.jpg", "josefinsans_006.jpg"]
-    }, {
-        "name": "Julius+Sans+One",
-        "images": ["gf_julius_sans_one_01_lg.png", "gf_julius_sans_one_02_lg.png", "gf_julius_sans_one_03_lg.png", "gf_julius_sans_one_04_lg.png", "gf_julius_sans_one_05_lg.png"]
-    }, {
-        "name": "Lato",
-        "images": ["Google Fonts-Lato-01.png", "Google Fonts-Lato-02.png", "Google Fonts-Lato-03.png", "Google Fonts-Lato-04.png", "Google Fonts-Lato-05.png", "Google Fonts-Lato-06.png"]
-    }, {
-        "name": "Lora",
-        "images": ["lora_001.jpg", "lora_002.jpg", "lora_003.jpg", "lora_004.jpg", "lora_005.jpg", "lora_006.jpg"]
-    }, {
-        "name": "Merriweather+Sans",
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]
-    }, {
-        "name": "Merriweather",
-        "images": ["gf_merriweather_01_lg.png", "gf_merriweather_02_lg.png", "gf_merriweather_03_lg.png", "gf_merriweather_04_lg.png", "gf_merriweather_05_lg.png", "gf_merriweather_06_lg.png"]
-    }, {
-        "name": "Mukta",
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]
-    }, {
-        "name": "Nanum+Gothic",
-        "images": ["gf-NanumGothic-01.jpg", "gf-NanumGothic-02.jpg", "gf-NanumGothic-03.jpg", "gf-NanumGothic-04.jpg", "gf-NanumGothic-05.jpg", "gf-NanumGothic-06.jpg"]
-    }, {
-        "name": "Nanum+Myeongjo",
-        "images": ["001.jpg", "002.jpg", "003.jpg", "004.jpg", "005.jpg", "006.jpg"]
-    }, {
-        "name": "Noto+Sans",
-        "images": ["Noto Sans/Noto Sans-01.png", "Noto Sans/Noto Sans-02.png", "Noto Sans/Noto Sans-03.png", "Noto Sans/Noto Sans-04.png", "Noto Sans/Noto Sans-05.png", "Noto Sans/Noto Sans-06.png"]
-    }, {
-        "name": "Noto+Serif+KR",
-        "images": ["noto_001.jpg", "noto_002.jpg", "noto_003.jpg", "noto_004.jpg", "noto_005.jpg", "noto_006.jpg"]
-    }, {
-        "name": "Old+Standard+TT",
-        "images": ["Google_Fonts_Old_Standard_TT_1.jpg", "Google_Fonts_Old_Standard_TT_2.jpg", "Google_Fonts_Old_Standard_TT_3.jpg", "Google_Fonts_Old_Standard_TT_4.jpg", "Google_Fonts_Old_Standard_TT_5.jpg", "Google_Fonts_Old_Standard_TT_6.jpg"]
-    }, {
-        "name": "Orbitron",
-        "images": ["gf_orbitron_01_lg.png", "gf_orbitron_02_lg.png"]
-    }, {
-        "name": "PT+Serif",
-        "images": ["PT Serif/PT Serif-01.png", "PT Serif/PT Serif-02.png", "PT Serif/PT Serif-03.png", "PT Serif/PT Serif-04.png", "PT Serif/PT Serif-05.png", "PT Serif/PT Serif-06.png"]
-    }, {
-        "name": "Playfair+Display+SC",
-        "images": ["Playfair Display SC/Google Fonts-PlayfairDisplaySC-01.png", "Playfair Display SC/Google Fonts-PlayfairDisplaySC-02.png", "Playfair Display SC/Google Fonts-PlayfairDisplaySC-03.png", "Playfair Display SC/Google Fonts-PlayfairDisplaySC-04.png", "Playfair Display SC/Google Fonts-PlayfairDisplaySC-05.png", "Playfair Display SC/Google Fonts-PlayfairDisplaySC-06.png"]
-    }, {
-        "name": "Press+Start+2P",
-        "images": ["pressstart2p_001.jpg", "pressstart2p_002.jpg", "pressstart2p_003.jpg", "pressstart2p_004.jpg", "pressstart2p_005.jpg", "pressstart2p_006.jpg"]
-    }, {
-        "name": "Questrial",
-        "images": ["gf-Questrial-01.jpg", "gf-Questrial-02.jpg", "gf-Questrial-03.jpg", "gf-Questrial-04.jpg", "gf-Questrial-05.jpg"]
-    }, {
-        "name": "Roboto+Mono",
-        "images": ["Google_Fonts_Roboto_Mono_.jpg", "Google_Fonts_Roboto_Mono_2.jpg", "Google_Fonts_Roboto_Mono_3.jpg", "Google_Fonts_Roboto_Mono_4.jpg", "Google_Fonts_Roboto_Mono_5.jpg", "Google_Fonts_Roboto_Mono_6.jpg"]
-    }, {
-        "name": "Source+Sans+Pro",
-        "images": ["gf_source_sans_pro_01_lg.png", "gf_source_sans_pro_02_lg.png", "gf_source_sans_pro_03_lg.png", "gf_source_sans_pro_04_lg.png", "gf_source_sans_pro_05_lg.png", "gf_source_sans_pro_06_lg.png"]
-    }, {
-        "name": "Source+Serif+Pro",
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]
-    }, {
-        "name": "Viga",
-        "images": ["Viga/VIGA-01.png", "Viga/VIGA-02.png", "Viga/VIGA-03.png", "Viga/VIGA-04.png", "Viga/VIGA-05.png", "Viga/VIGA-06.png"]
-    }, {
-        "name": "Work+Sans",
-        "images": ["gf-WorkSans-01.jpg", "gf-WorkSans-02.jpg", "gf-WorkSans-03.jpg", "gf-WorkSans-04.jpg"]
-    }, {
-        "name": "Zilla+Slab+Highlight",
-        "images": ["Google_Fonts_Zilla_Slab_1.jpg", "Google_Fonts_Zilla_Slab_2.jpg", "Google_Fonts_Zilla_Slab_3.jpg", "Google_Fonts_Zilla_Slab_4.jpg", "Google_Fonts_Zilla_Slab_5.jpg", "Google_Fonts_Zilla_Slab_6.jpg"]
-    }
-]
+{
+	"data": [
+        {
+			"name": "Advent+Pro",
+			"images": ["Advent Pro-01.png", "Advent Pro-02.png", "Advent Pro-03.png", "Advent Pro-04.png", "Advent Pro-05.png", "Advent Pro-06.png"]
+		}, {
+			"name": "Arvo",
+			"images": ["gf-Arvo-01.jpg", "gf-Arvo-02.jpg", "gf-Arvo-03.jpg"]
+		}, {
+			"name": "Bitter",
+			"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]
+		}, {
+			"name": "Catamaran",
+			"images": ["gf_catamaran_01_lg.png", "gf_catamaran_02_lg.png", "gf_catamaran_03_lg.png", "gf_catamaran_04_lg.png"]
+		}, {
+			"name": "Chivo",
+			"images": ["gf_chivo_01_lg.png", "gf_chivo_02_lg.png", "gf_chivo_03_lg.png", "gf_chivo_04_lg.png", "gf_chivo_05_lg.png", "gf_chivo_06_lg.png"]
+		}, {
+			"name": "Cinzel+Decorative",
+			"images": ["Google_Fonts_Cinzel_1.jpg", "Google_Fonts_Cinzel_2.jpg", "Google_Fonts_Cinzel_3.jpg", "Google_Fonts_Cinzel_4.jpg", "Google_Fonts_Cinzel_5.jpg", "Google_Fonts_Cinzel_6.jpg"]
+		}, {
+			"name": "Crimson+Text",
+			"images": ["gf-CrimsonText-01.jpg", "gf-CrimsonText-02.jpg", "gf-CrimsonText-03.jpg", "gf-CrimsonText-04.jpg", "gf-CrimsonText-05.jpg", "gf-CrimsonText-06.jpg"]
+		}, {
+			"name": "Exo",
+			"images": ["GoogleFonts-Exo-01.png", "GoogleFonts-Exo-02.png", "GoogleFonts-Exo-03.png", "GoogleFonts-Exo-04.png", "GoogleFonts-Exo-05.png", "GoogleFonts-Exo-06.png"]
+		}, {
+			"name": "Fira+Sans+Condensed",
+			"images": ["GoogleFonts-Fira Sans Condensed-01.png", "GoogleFonts-Fira Sans Condensed-02.png", "GoogleFonts-Fira Sans Condensed-03.png", "GoogleFonts-Fira Sans Condensed-04.png", "GoogleFonts-Fira Sans Condensed-05.png", "GoogleFonts-Fira Sans Condensed-06.png"]
+		}, {
+			"name": "Indie+Flower",
+			"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]
+		}, {
+			"name": "Josefin+Sans",
+			"images": ["josefinsans_001.jpg", "josefinsans_002.jpg", "josefinsans_003.jpg", "josefinsans_004.jpg", "josefinsans_005.jpg", "josefinsans_006.jpg"]
+		}, {
+			"name": "Julius+Sans+One",
+			"images": ["gf_julius_sans_one_01_lg.png", "gf_julius_sans_one_02_lg.png", "gf_julius_sans_one_03_lg.png", "gf_julius_sans_one_04_lg.png", "gf_julius_sans_one_05_lg.png"]
+		}, {
+			"name": "Lato",
+			"images": ["Google Fonts-Lato-01.png", "Google Fonts-Lato-02.png", "Google Fonts-Lato-03.png", "Google Fonts-Lato-04.png", "Google Fonts-Lato-05.png", "Google Fonts-Lato-06.png"]
+		}, {
+			"name": "Lora",
+			"images": ["lora_001.jpg", "lora_002.jpg", "lora_003.jpg", "lora_004.jpg", "lora_005.jpg", "lora_006.jpg"]
+		}, {
+			"name": "Merriweather+Sans",
+			"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]
+		}, {
+			"name": "Merriweather",
+			"images": ["gf_merriweather_01_lg.png", "gf_merriweather_02_lg.png", "gf_merriweather_03_lg.png", "gf_merriweather_04_lg.png", "gf_merriweather_05_lg.png", "gf_merriweather_06_lg.png"]
+		}, {
+			"name": "Mukta",
+			"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]
+		}, {
+			"name": "Nanum+Gothic",
+			"images": ["gf-NanumGothic-01.jpg", "gf-NanumGothic-02.jpg", "gf-NanumGothic-03.jpg", "gf-NanumGothic-04.jpg", "gf-NanumGothic-05.jpg", "gf-NanumGothic-06.jpg"]
+		}, {
+			"name": "Nanum+Myeongjo",
+			"images": ["001.jpg", "002.jpg", "003.jpg", "004.jpg", "005.jpg", "006.jpg"]
+		}, {
+			"name": "Noto+Sans",
+			"images": ["Noto Sans/Noto Sans-01.png", "Noto Sans/Noto Sans-02.png", "Noto Sans/Noto Sans-03.png", "Noto Sans/Noto Sans-04.png", "Noto Sans/Noto Sans-05.png", "Noto Sans/Noto Sans-06.png"]
+		}, {
+			"name": "Noto+Serif+KR",
+			"images": ["noto_001.jpg", "noto_002.jpg", "noto_003.jpg", "noto_004.jpg", "noto_005.jpg", "noto_006.jpg"]
+		}, {
+			"name": "Old+Standard+TT",
+			"images": ["Google_Fonts_Old_Standard_TT_1.jpg", "Google_Fonts_Old_Standard_TT_2.jpg", "Google_Fonts_Old_Standard_TT_3.jpg", "Google_Fonts_Old_Standard_TT_4.jpg", "Google_Fonts_Old_Standard_TT_5.jpg", "Google_Fonts_Old_Standard_TT_6.jpg"]
+		}, {
+			"name": "Orbitron",
+			"images": ["gf_orbitron_01_lg.png", "gf_orbitron_02_lg.png"]
+		}, {
+			"name": "PT+Serif",
+			"images": ["PT Serif/PT Serif-01.png", "PT Serif/PT Serif-02.png", "PT Serif/PT Serif-03.png", "PT Serif/PT Serif-04.png", "PT Serif/PT Serif-05.png", "PT Serif/PT Serif-06.png"]
+		}, {
+			"name": "Playfair+Display+SC",
+			"images": ["Playfair Display SC/Google Fonts-PlayfairDisplaySC-01.png", "Playfair Display SC/Google Fonts-PlayfairDisplaySC-02.png", "Playfair Display SC/Google Fonts-PlayfairDisplaySC-03.png", "Playfair Display SC/Google Fonts-PlayfairDisplaySC-04.png", "Playfair Display SC/Google Fonts-PlayfairDisplaySC-05.png", "Playfair Display SC/Google Fonts-PlayfairDisplaySC-06.png"]
+		}, {
+			"name": "Press+Start+2P",
+			"images": ["pressstart2p_001.jpg", "pressstart2p_002.jpg", "pressstart2p_003.jpg", "pressstart2p_004.jpg", "pressstart2p_005.jpg", "pressstart2p_006.jpg"]
+		}, {
+			"name": "Questrial",
+			"images": ["gf-Questrial-01.jpg", "gf-Questrial-02.jpg", "gf-Questrial-03.jpg", "gf-Questrial-04.jpg", "gf-Questrial-05.jpg"]
+		}, {
+			"name": "Roboto+Mono",
+			"images": ["Google_Fonts_Roboto_Mono_.jpg", "Google_Fonts_Roboto_Mono_2.jpg", "Google_Fonts_Roboto_Mono_3.jpg", "Google_Fonts_Roboto_Mono_4.jpg", "Google_Fonts_Roboto_Mono_5.jpg", "Google_Fonts_Roboto_Mono_6.jpg"]
+		}, {
+			"name": "Source+Sans+Pro",
+			"images": ["gf_source_sans_pro_01_lg.png", "gf_source_sans_pro_02_lg.png", "gf_source_sans_pro_03_lg.png", "gf_source_sans_pro_04_lg.png", "gf_source_sans_pro_05_lg.png", "gf_source_sans_pro_06_lg.png"]
+		}, {
+			"name": "Source+Serif+Pro",
+			"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]
+		}, {
+			"name": "Viga",
+			"images": ["Viga/VIGA-01.png", "Viga/VIGA-02.png", "Viga/VIGA-03.png", "Viga/VIGA-04.png", "Viga/VIGA-05.png", "Viga/VIGA-06.png"]
+		}, {
+			"name": "Work+Sans",
+			"images": ["gf-WorkSans-01.jpg", "gf-WorkSans-02.jpg", "gf-WorkSans-03.jpg", "gf-WorkSans-04.jpg"]
+		}, {
+			"name": "Zilla+Slab+Highlight",
+			"images": ["Google_Fonts_Zilla_Slab_1.jpg", "Google_Fonts_Zilla_Slab_2.jpg", "Google_Fonts_Zilla_Slab_3.jpg", "Google_Fonts_Zilla_Slab_4.jpg", "Google_Fonts_Zilla_Slab_5.jpg", "Google_Fonts_Zilla_Slab_6.jpg"]
+		},
+		{
+			"name": "Abel",
+			"images": ["Abelgf-abel-01-1200x628.png", "Abelgf-abel-02-1200x628.png", "Abelgf-abel-03-1200x628.png", "gf-abel-01-1200x628.png", "gf-abel-02-1200x628.png", "gf-abel-03-1200x628.png"]
+		}, {
+			"name": "Bad+Script",
+			"images": ["Bad+Scriptgf-badscript-01-1200x628.png", "Bad+Scriptgf-badscript-02-1200x628.png", "Bad+Scriptgf-badscript-03-1200x628.png", "gf-badscript-01-1200x628.png", "gf-badscript-02-1200x628.png", "gf-badscript-03-1200x628.png"]
+		}, {
+			"name": "Bangers",
+			"images": ["Bangersgf-bangers-01-1200x628.png", "Bangersgf-bangers-02-1200x628.png", "Bangersgf-bangers-03-1200x628.png", "Bangersgf-bangers-04-01.png", "gf-bangers-01-1200x628.png", "gf-bangers-02-1200x628.png", "gf-bangers-03-1200x628.png", "gf-bangers-04-01.png"]
+		}, {
+			"name": "BenchNine",
+			"images": ["BenchNinegf-benchnine-01-01.png", "BenchNinegf-benchnine-02-01.png", "BenchNinegf-benchnine-03.png", "gf-benchnine-01-01.png", "gf-benchnine-02-01.png", "gf-benchnine-03.png"]
+		}, {
+			"name": "Boogaloo",
+			"images": ["Boogaloogf-boogaloo-01-1200x628.png", "Boogaloogf-boogaloo-02-1200x628.png", "Boogaloogf-boogaloo-03-1200x628.png", "gf-boogaloo-01-1200x628.png", "gf-boogaloo-02-1200x628.png", "gf-boogaloo-03-1200x628.png"]
+		}, {
+			"name": "Candal",
+			"images": ["Candalgf-candal-01-1200x628.png", "Candalgf-candal-02-1200x628.png", "Candalgf-candal-03-1200x628.png", "gf-candal-01-1200x628.png", "gf-candal-02-1200x628.png", "gf-candal-03-1200x628.png"]
+		}, {
+			"name": "Damion",
+			"images": ["Damiongf-damion-01-01.png", "Damiongf-damion-02-01.png", "Damiongf-damion-03-01.png", "gf-damion-01-01.png", "gf-damion-02-01.png", "gf-damion-03-01.png"]
+		}, {
+			"name": "Didact+Gothic",
+			"images": ["Didact+Gothicgf-Didact Gothic-01-1200x628.png", "Didact+Gothicgf-Didact Gothic-02-1200x628.png", "Didact+Gothicgf-Didact Gothic-03-1200x628.png", "Didact+Gothicgf-Didact Gothic-04-01.png", "gf-Didact Gothic-01-1200x628.png", "gf-Didact Gothic-02-1200x628.png", "gf-Didact Gothic-03-1200x628.png", "gf-Didact Gothic-04-01.png"]
+		}, {
+			"name": "El+Messiri",
+			"images": ["El+Messirigf-elmessiri-01-01.png", "El+Messirigf-elmessiri-02-01.png", "El+Messirigf-elmessiri-03-01.png", "gf-elmessiri-01-01.png", "gf-elmessiri-02-01.png", "gf-elmessiri-03-01.png"]
+		}, {
+			"name": "Electrolize",
+			"images": ["Electrolizegf-electrolize-01-1200x628.png", "Electrolizegf-electrolize-02-1200x628.png", "Electrolizegf-electrolize-03-1200x628.png", "gf-electrolize-01-1200x628.png", "gf-electrolize-02-1200x628.png", "gf-electrolize-03-1200x628.png"]
+		}, {
+			"name": "Fugaz+One",
+			"images": ["Fugaz+Onegf-fugazone-01-1200x628.png", "Fugaz+Onegf-fugazone-02-1200x628.png", "Fugaz+Onegf-fugazone-03-1200x628.png", "gf-fugazone-01-1200x628.png", "gf-fugazone-02-1200x628.png", "gf-fugazone-03-1200x628.png"]
+		}, {
+			"name": "Gloria+Hallelujah",
+			"images": ["Gloria+Hallelujahgf-gloriahallelujah-01-1200x628.png", "Gloria+Hallelujahgf-gloriahallelujah-02-1200x628.png", "Gloria+Hallelujahgf-gloriahallelujah-03-1200x628.png", "gf-gloriahallelujah-01-1200x628.png", "gf-gloriahallelujah-02-1200x628.png", "gf-gloriahallelujah-03-1200x628.png"]
+		}, {
+			"name": "M+PLUS+Rounded+1c",
+			"images": ["M+PLUS+Rounded+1cgf-M PLUS Rounded 1c-01-1200x628-01.png", "M+PLUS+Rounded+1cgf-M PLUS Rounded 1c-02-1200x628-01.png", "M+PLUS+Rounded+1cgf-M PLUS Rounded 1c-03-1200x628-01.png", "gf-M PLUS Rounded 1c-01-1200x628-01.png", "gf-M PLUS Rounded 1c-02-1200x628-01.png", "gf-M PLUS Rounded 1c-03-1200x628-01.png"]
+		}, {
+			"name": "Marvel",
+			"images": ["Marvelgf-marvel-01-1200x628.png", "Marvelgf-marvel-02-1200x628.png", "Marvelgf-marvel-03-1200x628.png", "Marvelgf-marvel-04-01.png", "gf-marvel-01-1200x628.png", "gf-marvel-02-1200x628.png", "gf-marvel-03-1200x628.png", "gf-marvel-04-01.png"]
+		}, {
+			"name": "Monoton",
+			"images": ["Monotongf-monoton-01-1200x628.png", "Monotongf-monoton-02-1200x628.png", "Monotongf-monoton-03-1200x628.png", "Monotongf-monoton-04-01.png", "Monotongf-monoton-05-01.png", "gf-monoton-01-1200x628.png", "gf-monoton-02-1200x628.png", "gf-monoton-03-1200x628.png", "gf-monoton-04-01.png", "gf-monoton-05-01.png"]
+		}, {
+			"name": "Nunito",
+			"images": ["Nunitogf-nunito-01-1200x628.png", "Nunitogf-nunito-02-01.png", "Nunitogf-nunito-03-01.png", "Nunitogf-nunito-04-01.png", "gf-nunito-01-1200x628.png", "gf-nunito-02-01.png", "gf-nunito-03-01.png", "gf-nunito-04-01.png"]
+		}, {
+			"name": "Open+Sans",
+			"images": ["Open+Sansgf-opensans-01-1200x628.png", "Open+Sansgf-opensans-02-01.png", "Open+Sansgf-opensans-02-1200x628.png", "Open+Sansgf-opensans-03-1200x628.png", "Open+Sansgf-opensans-04-01.png", "Open+Sansgf-opensans-05-01.png", "Open+Sansgf-opensans-06.png", "gf-opensans-01-1200x628.png", "gf-opensans-02-01.png", "gf-opensans-02-1200x628.png", "gf-opensans-03-1200x628.png", "gf-opensans-04-01.png", "gf-opensans-05-01.png", "gf-opensans-06.png"]
+		}, {
+			"name": "Patua+One",
+			"images": ["Patua+Onegf-patua-one-01-01.png", "Patua+Onegf-patua-one-02-01.png", "Patua+Onegf-patua-one-03-01.png", "gf-patua-one-01-01.png", "gf-patua-one-02-01.png", "gf-patua-one-03-01.png"]
+		}, {
+			"name": "Philosopher",
+			"images": ["Philosophergf-philosopher-01-01.png", "Philosophergf-philosopher-02-01.png", "Philosophergf-philosopher-03-01.png", "gf-philosopher-01-01.png", "gf-philosopher-02-01.png", "gf-philosopher-03-01.png"]
+		}, {
+			"name": "Playball",
+			"images": ["Playballgf-playball-01-01.png", "Playballgf-playball-02-01.png", "Playballgf-playball-03-01.png", "gf-playball-01-01.png", "gf-playball-02-01.png", "gf-playball-03-01.png"]
+		}, {
+			"name": "Poiret+One",
+			"images": ["Poiret+Onegf-poiretone-01-01.png", "Poiret+Onegf-poiretone-02-01.png", "Poiret+Onegf-poiretone-03-04.png", "gf-poiretone-01-01.png", "gf-poiretone-02-01.png", "gf-poiretone-03-04.png"]
+		}, {
+			"name": "Squada+One",
+			"images": ["Squada+Onegf-squadaone-01-1200x628.png", "Squada+Onegf-squadaone-02-1200x628.png", "Squada+Onegf-squadaone-03-1200x628.png", "gf-squadaone-01-1200x628.png", "gf-squadaone-02-1200x628.png", "gf-squadaone-03-1200x628.png"]
+		}, {
+			"name": "Staatliches",
+			"images": ["Staatlichesgf-staatliches-01-1200x628-01.png", "Staatlichesgf-staatliches-02-1200x628-01.png", "Staatlichesgf-staatliches-03-1200x628-01.png", "gf-staatliches-01-1200x628-01.png", "gf-staatliches-02-1200x628-01.png", "gf-staatliches-03-1200x628-01.png"]
+		}, {
+			"name": "Tangerine",
+			"images": ["Tangerinegf-tangerine-01-1200x628.png", "Tangerinegf-tangerine-02-1200x628.png", "Tangerinegf-tangerine-03-1200x628.png", "Tangerinegf-tangerine-04-01.png", "Tangerinegf-tangerine-05-01.png", "gf-tangerine-01-1200x628.png", "gf-tangerine-02-1200x628.png", "gf-tangerine-03-1200x628.png", "gf-tangerine-04-01.png", "gf-tangerine-05-01.png"]
+		}, {
+			"name": "Varela",
+			"images": ["Varelagf-Varela-01-1200x628-01.png", "Varelagf-Varela-02-1200x628-01.png", "Varelagf-Varela-03-1200x628-01.png", "gf-Varela-01-1200x628-01.png", "gf-Varela-02-1200x628-01.png", "gf-Varela-03-1200x628-01.png"]
+		}
+	]
+}
